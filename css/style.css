@@ -27,9 +27,9 @@ div#ContainerSushi {
 
 .Margin {
 	position: relative;
-	background-color: grey;
+	background-color: #828282;
 	margin: 10px;
-	border: 3px solid black;
+	border: 1px solid black;
 }
 
 #p1 {
@@ -41,8 +41,8 @@ div#ContainerSushi {
 	float: right;
 	margin-top: 0px;
 	margin-right: 0px;
-	border-bottom: 3px solid black;
-	border-left: 3px solid black;
+	border-bottom: 1px solid black;
+	border-left: 1px solid black;
 	width: 125px;
 }
 
@@ -56,8 +56,8 @@ div#ContainerSushi {
 	float: right;
 	margin-top: 0px;
 	margin-right: 0px;
-	border-bottom: 3px solid black;
-	border-left: 3px solid black;
+	border-bottom: 1px solid black;
+	border-left: 1px solid black;
 	width: 125px;
 }
 
@@ -70,8 +70,8 @@ div#ContainerSushi {
 	float: right;
 	margin-top: 0px;
 	margin-right: 0px;
-	border-bottom: 3px solid black;
-	border-left: 3px solid black;
+	border-bottom: 1px solid black;
+	border-left: 1px solid black;
 	width: 125px;
 }
 
